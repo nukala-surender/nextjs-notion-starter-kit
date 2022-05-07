@@ -1,13 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  //https://www.notion.so/nukalasurender/Next-js-Notion-Starter-Kit-Template-ded86e24e004402cbe55da00e6c2832d
+  rootNotionPageId: 'ded86e24e004402cbe55da00e6c2832d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'Surendhar Nukala',
   domain: 'transitivebullsh.it',
   author: 'Travis Fischer',
 
@@ -18,8 +19,8 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'nukala-surender',
+  linkedin: 'nukalasurender',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
